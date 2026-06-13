@@ -1,5 +1,12 @@
 # 💫 About Me:
-## 🚀 About Me<br><br>I'm a passionate MCA student specializing in Cloud Computing and DevOps, focused on building a strong foundation in Backend Development, Cloud Technologies, and System Engineering.<br><br>My primary interests include designing scalable backend systems, working with databases, automating infrastructure, and deploying applications on cloud platforms. I enjoy learning how real-world software is built, optimized, secured, and scaled for millions of users.<br><br>Currently, I am strengthening my expertise in Data Structures & Algorithms, Linux, SQL, System Design, AWS, Docker, Kubernetes, and CI/CD practices while building practical projects to gain industry-level experience.<br><br>My long-term goal is to become a highly skilled Backend and Cloud Engineer capable of developing reliable, scalable, and production-ready systems that solve real-world problems.
+## 🚀 About Me<br><br>## ⚡ About Me
+
+I don't just learn technologies—I learn how systems work.
+
+Focused on Backend Development, Cloud Computing, and DevOps, I enjoy building scalable applications, optimizing infrastructure, and exploring the engineering behind high-performance software. Currently pursuing an MCA in Cloud Computing & DevOps while continuously sharpening my skills in Linux, System Design, Cloud Architecture, and Automation.
+
+Turning complexity into reliable solutions, one project at a time.
+
 
 
 ## 🌐 Socials:
