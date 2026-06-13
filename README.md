@@ -1,5 +1,5 @@
-# 💫 About Me:
-## 🚀 About Me<br><br>## ⚡ About Me
+
+## <br><br>## ⚡ About Me
 
 I don't just learn technologies—I learn how systems work.
 
