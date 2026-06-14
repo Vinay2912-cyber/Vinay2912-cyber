@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=450&lines=Backend+Engineer+%6C+FastAPI+%2F+Node.js+%2F+PostgreSQL;Cloud+%26+DevOps+Engineer+%7C+AWS+%2F+Docker+%2F+CI-CD;Designing+Scalable%2C+Secure%2C+Production-Grade+APIs;Linux-First+Infrastructure+%26+Deployment+Automation" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=550&lines=Backend+Engineer+%7C+FastAPI+%2F+Node.js+%2F+PostgreSQL;Cloud+%26+DevOps+Engineer+%7C+AWS+%2F+Docker+%2F+CI-CD;Designing+Scalable%2C+Secure%2C+Production-Grade+APIs;Linux-First+Infrastructure+%26+Deployment+Automation" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -176,12 +176,12 @@ Designing and shipping FastAPI/PostgreSQL backend systems for client projects, c
 ## 🐍 Contribution Snake
 
 <div align="center">
-
-<img src="https://raw.githubusercontent.com/vinay2912-cyber/vinay2912-cyber/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg" width="100%">
+  </picture>
 </div>
-
-<br/>
 
 ---
 
